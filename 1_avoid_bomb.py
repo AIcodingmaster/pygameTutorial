@@ -7,7 +7,7 @@ bombs=[]
 score = 0
 game_over = False
 
-large_font = pygame.font.SysFont('malgungothic', 72)#font객체 생ㅅ
+large_font = pygame.font.SysFont('malgungothic', 72)#font객체 생성
 small_font = pygame.font.SysFont('malgungothic', 36)
 bomb_image = pygame.image.load('asset/avoid_bomb/bomb.png')
 import random
